@@ -1,0 +1,82 @@
+.alala{
+   
+    height: 10vh;
+}
+@media  (max-width: 768px) {
+    .alala{
+        height: 13vh;
+    }
+    
+}
+@media  (max-width: 768px) {
+    .alala{
+        height: 13vh;
+    }
+    
+}
+
+
+
+@media  (max-width: 318px) {
+    .alala{
+        height: 28vh;
+    }
+    
+}
+
+
+
+
+
+@media (orientation: landscape) and (max-width: 3000px) {
+    .alala{
+        height: 24vh;
+    }
+    
+}
+
+@media (orientation: landscape) and (max-width: 768px) {
+    .alala{
+        height: 24vh;
+    }
+    
+}
+
+@media (orientation: landscape) and (max-width: 402px) {
+    .alala{
+        height: 28vh;
+    }
+    
+}
+@media (orientation: landscape) and (max-width: 386px) {
+    .alala{
+        height: 32vh;
+    }
+    
+}
+ 
+@media (orientation: landscape) and (width: 320px) {
+    .alala{
+        height: 42vh;
+    }
+    
+}
+@media  (width: 320px) {
+    .alala{
+        height: 42vh;
+    }
+    
+}
+
+@media (orientation: landscape) and (width: 375px) {
+    .alala{
+        height: 42vh;
+    }
+    
+}
+@media  (width: 375px) {
+    .alala{
+        height: 42vh;
+    }
+    
+}

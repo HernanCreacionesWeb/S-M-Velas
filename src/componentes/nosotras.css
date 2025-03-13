@@ -1,0 +1,15 @@
+.noso{
+    width: 100%;
+   
+}
+.p-noso{
+    font-weight: 500 !important;
+    font-size: 1rem;
+    
+}
+.col-txt{
+    padding: 2%;
+    background-color: rgb(252, 251, 196) !important;
+    height:auto;
+    border-radius: 20px;
+}
