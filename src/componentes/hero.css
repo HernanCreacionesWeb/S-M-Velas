@@ -38,6 +38,7 @@
     background-color: bisque;
 }
 @media (max-width: 952px){
+
     .h1-hero{
        
       color: rgb(255, 174, 0);
@@ -76,3 +77,75 @@
     }
     
 }
+
+@media (orientation: landscape) {
+    .txt-cont{
+        margin-top: 47vh;
+        
+    }
+  }
+  
+  @media (orientation: landscape) and (max-width: 357px){
+    .txt-cont{
+        margin-top: 50vh;
+        
+    }
+  
+       
+  }
+  
+  @media (max-width: 357px){
+    .txt-cont{
+        margin-top: 50vh;
+        
+    }
+    .h2-hero{
+        font-size: .8rem;
+       }
+       
+  }
+  
+  @media (max-width: 357px){
+  
+    
+    .h1-hero{
+       
+        font-size: 2rem;
+      }
+       
+  }
+
+  @media (max-width: 177px){
+  
+    
+   
+  .btn-hero{
+   font-size: .8rem;
+}
+       
+  }
+
+
+  @media (max-width: 143px){
+  
+    
+    .h1-hero{
+       
+        font-size: 1.8rem;
+      }
+       
+  }
+
+
+  
+  @media (max-width: 117px){
+  
+    
+    .h1-hero{
+       
+        font-size: 1.5rem;
+      }
+      .btn-hero{
+        font-size: .6rem;
+     }
+  }
